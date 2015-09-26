@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary"></color>
-    <color name="primary_dark"></color>
-    <color name="accent"></color>
+    <color name="primary">#125688</color>
+    <color name="primary_dark">#125688</color>
+    <color name="accent">#EE5350</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <string name="navigationBar">#000000</string>
+    <color name="white">#FFFFFF</color>
 </resources>

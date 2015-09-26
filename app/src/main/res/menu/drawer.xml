@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/notes"
+            android:checked="false"
+            android:icon="@drawable/ic_dashboard_black_36dp"
+            android:title="@string/nav_item_notes" />
+
+        <item
+            android:id="@+id/tags"
+            android:checked="false"
+            android:icon="@drawable/ic_label_outline_black_36dp"
+            android:title="@string/nav_item_tags" />
+
+        <item
+            android:id="@+id/draws"
+            android:checked="false"
+            android:icon="@drawable/ic_brush_black_36dp"
+            android:title="@string/nav_item_draws" />
+
+        <item
+            android:id="@+id/about"
+            android:checked="false"
+            android:icon="@drawable/ic_info_black_36dp"
+            android:title="@string/nav_item_about" />
+    </group>
+</menu>
